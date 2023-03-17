@@ -1,0 +1,70 @@
+@media (max-width:375px) {
+
+    body {
+        max-width: 375px;
+        background-image: url(../images/bg-mobile.svg);
+        background-color: hsl(257, 40%, 49%);
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: 375px;
+    }
+
+    .titulo img {
+        width: 35vw;
+        padding-top: 8vh;
+
+
+    }
+
+    .conteudo_principal {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .imagem {
+        width: 82vw;
+
+    }
+
+    .descricao {
+        padding: 0;
+
+        margin-left: 10vw;
+
+    }
+
+    .descricao h2 {
+        font-size: 6vw;
+        width: 70vw;
+        line-height: 6vh;
+
+    }
+
+    .descricao p {
+        font-size: 3.2vw;
+        width: 65vw;
+        padding-top: 3vh;
+    }
+
+    .descricao button {
+        width: 50vw;
+        margin-left: 7vw;
+        font-size: 3vw;
+    }
+
+    .rodape {
+
+        justify-content: center;
+
+    }
+
+    .rodape span {
+        width: 4vw;
+        height: 3vh;
+        font-size: 3.5vw;
+        text-align: center;
+        font-size: 3vw;
+        padding: 1.2vw;
+
+    }
+}
