@@ -9,7 +9,7 @@
 
 <h4>Mobile</h4> 
 
-![image](https://user-images.githubusercontent.com/83611929/225886727-8b0f04a2-cac2-4c5a-a3ef-78b052166c6a.png)
+![image](https://user-images.githubusercontent.com/83611929/226559323-6df617fa-4713-4af0-a7bf-642d629882c3.png)
 
 
-![image](https://user-images.githubusercontent.com/83611929/225886627-c432d457-7daa-4935-85ff-2f3b30a15520.png)
+![image](https://user-images.githubusercontent.com/83611929/226559577-c4101604-aea2-4656-aed2-fe04083eff63.png)
