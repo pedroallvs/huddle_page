@@ -1,12 +1,12 @@
-@media (max-width:375px) {
+@media (max-width:425px) {
 
     body {
-        max-width: 375px;
+        max-width: 425px;
         background-image: url(../images/bg-mobile.svg);
         background-color: hsl(257, 40%, 49%);
         background-position: top;
         background-repeat: no-repeat;
-        background-size: 375px;
+        background-size: 425px;
     }
 
     .titulo img {
@@ -19,6 +19,7 @@
     .conteudo_principal {
         flex-direction: column;
         text-align: center;
+        margin-right: 7%;
     }
 
     .imagem {
@@ -50,6 +51,7 @@
         width: 50vw;
         margin-left: 7vw;
         font-size: 3vw;
+
     }
 
     .rodape {
@@ -60,11 +62,11 @@
 
     .rodape span {
         width: 4vw;
-        height: 3vh;
-        font-size: 3.5vw;
+        height: 2.5vh;
+
         text-align: center;
         font-size: 3vw;
-        padding: 1.2vw;
+        padding: 5px;
 
     }
 }
