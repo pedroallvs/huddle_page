@@ -45,6 +45,7 @@
         font-size: 3.2vw;
         width: 65vw;
         padding-top: 3vh;
+        line-height: normal;
     }
 
     .descricao button {
@@ -61,12 +62,12 @@
     }
 
     .rodape span {
-        width: 4vw;
-        height: 2.5vh;
-
+        width: 16px;
+        height: 16px;
         text-align: center;
-        font-size: 3vw;
+        font-size: 3.2vw;
         padding: 5px;
+        margin-bottom: 20px;
 
     }
 }
