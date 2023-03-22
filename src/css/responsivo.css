@@ -6,60 +6,55 @@
         background-color: hsl(257, 40%, 49%);
         background-position: top;
         background-repeat: no-repeat;
-        background-size: 425px;
+        background-size: contain;
     }
 
     .titulo img {
         width: 35vw;
-        padding-top: 8vh;
-
-
+        padding-top: 5vh;
     }
 
     .conteudo_principal {
         flex-direction: column;
-        text-align: center;
+        justify-content: center;
         margin-right: 7%;
-    }
-
-    .imagem {
-        width: 82vw;
+        gap: 20px;
 
     }
 
     .descricao {
         padding: 0;
-
-        margin-left: 10vw;
-
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width: 100%;
+        height: 41vh;
+        margin-right: 0;
     }
 
     .descricao h2 {
-        font-size: 6vw;
-        width: 70vw;
-        line-height: 6vh;
 
+        font-size: 6vw;
+        line-height: 6vh;
     }
 
     .descricao p {
         font-size: 3.2vw;
-        width: 65vw;
+        width: 61vw;
+        text-align: center;
         padding-top: 3vh;
         line-height: normal;
     }
 
     .descricao button {
         width: 50vw;
-        margin-left: 7vw;
         font-size: 3vw;
-
     }
 
     .rodape {
-
         justify-content: center;
-        margin-right: 4%;
-
+        padding: 0;
+        margin: 0;
     }
 
     .rodape span {
@@ -69,6 +64,5 @@
         font-size: 3.2vw;
         padding: 5px;
         margin-bottom: 20px;
-
     }
 }
