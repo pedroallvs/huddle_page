@@ -5,11 +5,9 @@
 <h3>Resumo</h3>
 <h4>Desktop</h4> 
 
-![image](https://user-images.githubusercontent.com/83611929/225883513-d1ea5afc-6a2e-484d-9e98-5880e9c30d16.png)
+![image](https://user-images.githubusercontent.com/83611929/227069633-bbf5a154-c7be-44a3-ba6c-2002a3f0143d.png)
 
 <h4>Mobile</h4> 
 
-![image](https://user-images.githubusercontent.com/83611929/226559323-6df617fa-4713-4af0-a7bf-642d629882c3.png)
+![image](https://user-images.githubusercontent.com/83611929/227069486-1d650300-d008-457d-a65a-522461aa59f6.png)
 
-
-![image](https://user-images.githubusercontent.com/83611929/226559577-c4101604-aea2-4656-aed2-fe04083eff63.png)
