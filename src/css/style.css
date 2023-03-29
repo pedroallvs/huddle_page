@@ -30,6 +30,7 @@ body {
 .imagem {
     width: 45vw;
     height: 70vh;
+
 }
 
 .imagem img {
@@ -77,16 +78,17 @@ body {
     align-content: space-around;
     padding-right: 5vw;
     gap: 0.7vw;
+
 }
 
 .rodape span {
     width: 1.5vw;
-    height: 1.5vw;
+    height: 3vh;
     text-align: center;
     border: 1px solid white;
     border-radius: 50%;
-    padding: 0.2vw;
-    font-size: 1.1vw;
+    padding: 0.7vh 0.3vw;
+    font-size: 1vw;
     color: #f3f2f2;
 
 }
