@@ -5,9 +5,9 @@
 <h3>Resumo</h3>
 <h4>Desktop</h4> 
 
-![image](https://user-images.githubusercontent.com/83611929/227069633-bbf5a154-c7be-44a3-ba6c-2002a3f0143d.png)
+![image](https://user-images.githubusercontent.com/83611929/228814700-85746767-d5b2-4e13-8935-5dcaf83ec40c.png)
 
 <h4>Mobile</h4> 
 
-![image](https://user-images.githubusercontent.com/83611929/227069486-1d650300-d008-457d-a65a-522461aa59f6.png)
+![image](https://user-images.githubusercontent.com/83611929/228817065-81c17f3c-feb3-4942-ae6e-9a89ea9fec19.png)
 
